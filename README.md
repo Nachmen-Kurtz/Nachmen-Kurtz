@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Nachmen-Kurtz
-- 👀 I’m interested in Linux, Operation Systems, and CI/CD operations.
-- 🌱 I’m currently learning AWS Certified Developer Associate.
-- 💞️ I’m looking to collaborate on DevOps teams.
-- 📫 How to reach me: git@nachmenk.com
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+![Linux](https://img.shields.io/badge/Linux-OS-blue?logo=linux)
 
-<!---
-Nachmen-Kurtz/Nachmen-Kurtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Nachmen Kurtz
+
+## 👀 Interests
+- AWS
+- Linux
+- Operating Systems
+- CI/CD Operations
+
+## 🌱 Currently Learning
+- AWS Certified Solutions Architect – Associate
+
+## 🎓 Certifications
+- AWS Certified Cloud Practitioner
+- AWS Certified Developer – Associate
+
+## 🤝 Collaboration
+Looking to collaborate on **DevOps teams**.
+
+## 📫 Contact
+git@nachmenk.com
